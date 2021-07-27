@@ -8,6 +8,3 @@ I love writing my own css, doing challenges from [frontendmentor](https://www.fr
 - Watching TV Shows, Movies, and Documentaries
 - Jogging and Walking
 - Playing Valorant / Dota2
-- 
-
-
